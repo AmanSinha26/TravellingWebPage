@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(248, 217, 222);
+    background-image: url("Digital-Travelerx.jpg");
+}
+div{
+    margin-left: 5%;
+}
+span{
+    font-size: 15px;
+    margin-left: 30px;
+}
+#headingSpan{
+    font-family: 'Lemonada', cursive;
+    margin-right: 12%;
+    margin-left: 0px;
+    background: linear-gradient(90deg, #583105 40%, #a36310 60%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    font-weight: bold;
+}
+#loginBtn{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 1% 2%;
+    margin-left: 15%;
+    background-color: transparent;
+    border: transparent;
+}
+#signUpBtn{
+    font-size: 16px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    padding: 1% 2%;
+    margin-left: 0.5%;
+}
+#headerDiv img{
+    transform: rotate(45deg);
+}
+.headerBtns{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1% 2%;
+    background-color: transparent;
+    border: transparent;
+}
+.headerBtnsDest{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1% 2%;
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+}
+.headerBtnsDest span{
+    background-color: rgba(243, 192, 26, 0.836);
+    padding: 2px;
+    margin-right: 1px;
+    font-size: 11px;
+    position: absolute;
+    top: 1px;
+    right: -1px;
+    border-radius: 5px;
+}
+.sloganDiv{
+    margin-top: 5%;
+    width: 35%;
+}
+.sloganDiv div{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 53px;
+    margin-left: 0;
+    font-weight: bold;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjLx-osf93od_bdXU7oVLd3Z1N4-U7Tl-U7od8nk7wi00rc3ponImI5GGQ1q8Atq6fhw&usqp=CAU");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.sloganDiv p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: grey;
+}
+.innerBtnDiv{
+    display: flex;
+}
+#planTrip{
+    width: 12%;
+    height: 45px;
+    margin-right: 1.5%;
+    background-color: rgba(243, 192, 26, 1);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid rgba(240, 180, 15, 1);
+}
+#playVideo{
+    background-color: transparent;
+    font-weight: bold;
+    color: black;
+    width: 12%;
+    height: 45px;
+    margin-right: 1.5%;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1.5px solid rgba(240, 180, 15, 0.836);
+}
+.far{
+    color: black;
+}
+#playVideo i{
+    font-size: 20px;
+    color: rgba(218, 162, 11, 0.836);
+}
+.lastDiv{
+    margin-top: 2%;
+    margin-right: 4%;
+    background-color: rgba(242, 247, 245, 0.9);
+    display: flex;
+    font-size: 12.5px;
+}
+.lastDiv div{
+    margin-left: 2%;
+}
+.lastDiv p{
+    font-family: 'Roboto', sans-serif;
+}
+.lowerLastDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 78%;
+}
+.lowerLastDiv :hover{
+    background: linear-gradient(90deg, #dbbb2b 40%, #e6d798 60%);
+}
+.lowerLastDiv div{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2%;
+}
+#footerHeading{
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+}
+#footerHeading2{
+    margin-left: 0;
+    margin-top: 15%;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#Img{
+    margin-left: 10px;
+    margin-top: 10%;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+#para{
+    margin-left: 20px;
+    margin-top: 6%;
+    font-weight: 700;
+    color: grey;
+}
+#mainPara{
+    margin-top: 0;
+    font-weight: 700;
+    color: grey;
+}
+#headerImg{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
